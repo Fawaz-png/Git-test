@@ -1,0 +1,11 @@
+{
+  "name": "testfile",
+  "version": "1.0.0",
+  "description": "\"this is a test directory to learn node and git\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fawaz Bello",
+  "license": "ISC"
+}
