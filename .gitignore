@@ -1,2 +1,4 @@
 node_modules
 package-lock.json
+.vscode
+bootstrap-5.2.1-dist
